@@ -2,4 +2,4 @@
 
 # Marvel
 
-![Deadpool Unpainted](/workspaces/My-3D-prints/assets/Deadpool_unpainted.jpeg)
+![Deadpool Unpainted](https://github.com/akshaym96/My-3D-prints/blob/main/assets/Deadpool_unpainted.jpeg)
